@@ -12,7 +12,7 @@ const quotes = [
     "Your limitation—it's only your imagination.",
 ];
 const quoteText =document.getElementById("quote"); 
-const newQuoteBtn  = document.getElementById("new-quote-btn");
+const newQuoteBtn  = document.getElementById("new-quote");
 
 newQuoteBtn.addEventListener(
     'click' , () => { 
